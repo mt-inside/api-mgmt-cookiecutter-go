@@ -1,0 +1,10 @@
+{
+    "full_name": "Matt Turner",
+    "github_username": "mt-inside",
+    "project_slug": "",
+    "project_pretty_name": "",
+    "project_short_description": "A cool app.",
+    "docker_hub_username": "mtinside",
+    "docker_build_image": "docker.io/library/golang:1.18",
+    "docker_run_image": "gcr.io/distroless/static:latest"
+}
